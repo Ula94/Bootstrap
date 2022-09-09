@@ -112,6 +112,7 @@ h1{ background-color: var(--bg-lgblue);
 .text--lgblue{
     color: var(--color-lgblue);
     font-size: var(--text-sm);
+    text-align: center;
 }
 
 .bg-blue {  
@@ -132,3 +133,13 @@ h1{ background-color: var(--bg-lgblue);
      padding: 5px;
      width: 50px;
  }
+
+ .bg-btn  {
+    background: linear-gradient(to top,rgb(255, 229, 137), rgb(238, 113, 68) );
+    margin: 5px;
+ }
+.formulario        	{
+    padding: 20px;
+
+}
+ 
